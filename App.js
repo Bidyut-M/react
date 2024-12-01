@@ -1,13 +1,12 @@
 import React from "react";
-import EatingDisorderTest from "./EatingDisorderTest";
+import PostpartumDepressionTest from "./PostpartumDepressionTest";
 
 function App() {
   return (
     <div>
-      <EatingDisorderTest />
+      <PostpartumDepressionTest />
     </div>
   );
 }
 
 export default App;
-
